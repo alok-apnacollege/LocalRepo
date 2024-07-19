@@ -1,1 +1,1 @@
-# This is a Localk Repo.
+# This is a Local Repo.
